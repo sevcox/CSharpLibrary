@@ -1,0 +1,7 @@
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\01_ReferenceTypes\bin\Debug\01_ReferenceTypes.exe.config
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\01_ReferenceTypes\bin\Debug\01_ReferenceTypes.exe
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\01_ReferenceTypes\bin\Debug\01_ReferenceTypes.pdb
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\01_ReferenceTypes\obj\Debug\01_ReferenceTypes.csprojAssemblyReference.cache
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\01_ReferenceTypes\obj\Debug\01_ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\01_ReferenceTypes\obj\Debug\01_ReferenceTypes.exe
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\01_ReferenceTypes\obj\Debug\01_ReferenceTypes.pdb

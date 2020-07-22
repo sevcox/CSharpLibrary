@@ -1,0 +1,7 @@
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.csprojAssemblyReference.cache
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\sever\OneDrive\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\04_Loops\obj\Debug\04_Loops.pdb
