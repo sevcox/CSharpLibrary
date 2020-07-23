@@ -72,7 +72,6 @@ namespace _08_Interfaces
         {
             // New up an instance of an IFruit
             IFruit fruit = new Banana();  //we are calling Banana BUT will only have the properties of IFruit, can't just call on interfaces like other classes. In this example it will take on the name of the banana put ONLY have access to the IFruit properties in Banana.
-            List < IFruit > = new List<IFruit>();
 
             string output = fruit.Peel();
             Console.WriteLine(output);
